@@ -2,19 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiyoungpark.com/cv/</loc>
-    <lastmod>2025-04-18T12:12:44-05:00</lastmod>
+    <loc>https://jiyoungpark.com/posts/first-post/</loc>
+    <lastmod>2025-04-18T11:00:26-05:00</lastmod>
   </url><url>
     <loc>https://jiyoungpark.com/</loc>
-    <lastmod>2025-04-18T12:12:44-05:00</lastmod>
-  </url><url>
-    <loc>https://jiyoungpark.com/teaching/</loc>
-    <lastmod>2025-04-18T12:12:41-05:00</lastmod>
-  </url><url>
-    <loc>https://jiyoungpark.com/research/</loc>
-    <lastmod>2025-04-18T12:12:37-05:00</lastmod>
-  </url><url>
-    <loc>https://jiyoungpark.com/posts/first-post/</loc>
     <lastmod>2025-04-18T11:00:26-05:00</lastmod>
   </url><url>
     <loc>https://jiyoungpark.com/posts/</loc>
@@ -22,6 +13,12 @@
   </url><url>
     <loc>https://jiyoungpark.com/categories/</loc>
   </url><url>
+    <loc>https://jiyoungpark.com/cv/</loc>
+  </url><url>
+    <loc>https://jiyoungpark.com/research/</loc>
+  </url><url>
     <loc>https://jiyoungpark.com/tags/</loc>
+  </url><url>
+    <loc>https://jiyoungpark.com/teaching/</loc>
   </url>
 </urlset>
